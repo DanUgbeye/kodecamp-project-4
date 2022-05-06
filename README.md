@@ -1,9 +1,10 @@
 # KodeCamp Intermediate React Track Project 4
 
     A simple react project using react router for routing between 3 pages
-    * Home page
-    * About page
-    * Contact page
+    
+    + Home page
+    + About page
+    + Contact page
 
 ## GitHub Pages Link
 

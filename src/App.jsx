@@ -8,7 +8,7 @@ import Header from "./components/header";
 
 function App() {
   return (
-    <main className=" px-6 pb-12 bg-[#76568A] min-h-[100vh] " >
+    <main className=" bg-[#EFEEFF] min-h-[100vh] " >
       <Header />
       <Outlet />
       <Footer />

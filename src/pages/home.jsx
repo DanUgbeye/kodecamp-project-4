@@ -28,7 +28,7 @@ const Home = () => {
       </div>
 
       <Section
-        header={"WE PROVIDE WORLD CLASS DECORATIONS"}
+        header={"WE PROVIDE WORLD CLASS INTERIOR DECORATIONS"}
         body={"You will never be disappointed with us. We have lots of testimonials that will convince you."}
       />
 
